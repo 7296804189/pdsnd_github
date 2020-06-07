@@ -1,2 +1,1 @@
-# pdsnd_github
-GitHub project (Project 3) repository for PDSND
+this project is cretaed on 8 june 2020
